@@ -1,2 +1,2 @@
-# Brawl-Stars-StarDrop-Animation-Reproduce
+# BrawlStars-StarDrop-AnimationReproduce
 ブロスタのスタードロップを再現する試みです。頑張ります。
