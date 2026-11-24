@@ -1,0 +1,16 @@
+.back_ground {
+    width: 100vw;
+    height: 100vh;
+    background-color: #369722;
+}
+
+.clear_stars {
+    display: flex;
+    gap: 4vw;
+    .clear_star {
+        display: block;
+        width: 8vw;
+        height: 8vw;
+        background-color: #fff;
+    }
+}
